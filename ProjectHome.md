@@ -1,0 +1,1 @@
+Pretty simple file uploader for CakePHP projects. Use it as a component, pass path for file uploading and voala - file is uploaded.
